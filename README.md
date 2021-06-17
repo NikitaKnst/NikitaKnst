@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NikitaKnst
+- 👀 I’m interested in games and program
+- 🌱 I’m currently learning junior developer
+-  it's all on 17.06.2021

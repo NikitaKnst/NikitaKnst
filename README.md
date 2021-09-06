@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikitaKnst
+- 👋 Hi, I’m @Nikita.Konstantinov
 - 👀 I’m interested in games and program
 - 🌱 I’m currently learning junior developer
 -  it's all on 17.06.2021
